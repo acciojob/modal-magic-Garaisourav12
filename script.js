@@ -1,5 +1,5 @@
 //your JS code here. If required.
-document.getElementById("openModalBtn").addEventListener("click", function() {
+document.getElementById("openModal").addEventListener("click", function() {
   document.getElementById("modal").style.display = "block";
 });
 
